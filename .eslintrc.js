@@ -19,9 +19,10 @@ module.exports = {
       '1tbs',
       { allowSingleLine: false },
     ],
+    'newline-before-return': 'error',
     'no-console': 'error',
     'no-ternary': 'error',
-    'newline-before-return': 'error',
+    'no-multiple-empty-lines': 'error',
     'no-param-reassign': [
       2,
       { props: false },

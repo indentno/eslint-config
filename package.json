@@ -1,0 +1,22 @@
+{
+  "name": "@s360digital/eslint-config",
+  "version": "1.0.0",
+  "description": "ESLint config based on s360 style guide",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s360digital/eslint-config.git"
+  },
+  "author": "Daniel Eckermann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/s360digital/eslint-config/issues"
+  },
+  "homepage": "https://github.com/s360digital/eslint-config#readme",
+  "devDependencies": {
+    "eslint": "^8.1.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-vue": "^8.0.3"
+  }
+}

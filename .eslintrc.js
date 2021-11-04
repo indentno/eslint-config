@@ -1,7 +1,7 @@
 module.exports = {
   extends: [
     'airbnb-base',
-    'plugin:vue/recommended',
+    'plugin:vue/base',
   ],
   parserOptions: {
     sourceType: 'module',
